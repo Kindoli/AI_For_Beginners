@@ -52,6 +52,6 @@ The model was compiled using the `Adam` optimizer and `binary_crossentropy` loss
    ```bash
    git clone [https://github.com/Kindoli/AI_For_Beginners.git)](https://github.com/Kindoli/AI_For_Beginners.git)
 
-   **Link to yourself:**
+## Contacts
 
-   LinkedIn: https://www.linkedin.com/in/kindoli-edward-5058544a/
+**LinkedIn:** https://www.linkedin.com/in/kindoli-edward-5058544a/
